@@ -79,10 +79,8 @@ The network was designed and implemented entirely in **Cisco Packet Tracer**, de
 > See `P2-Business Company Network Design.pdf` for the full topology diagram.
 
 **High-level topology:**
-```
-<img width="1780" height="926" alt="image" src="https://github.com/user-attachments/assets/4168fd8f-c861-4b08-8600-ea48631bb64d" />
 
-```
+<img width="1780" height="926" alt="image" src="https://github.com/user-attachments/assets/4168fd8f-c861-4b08-8600-ea48631bb64d" />
 
 ---
 
